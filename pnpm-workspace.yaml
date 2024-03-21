@@ -1,0 +1,3 @@
+packages:
+  - 'glimmer-initialization-repro'
+  - 'test-app'
